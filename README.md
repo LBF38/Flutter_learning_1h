@@ -1,3 +1,8 @@
+# This is a learning project
+I'm doing this first Flutter application project to learn how to code in Flutter.
+
+This Github repo will gather my trials and errors on the road to successfully master Flutter.
+
 # my_app
 
 A new Flutter project.
